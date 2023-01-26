@@ -1,0 +1,235 @@
+.Hoaxer{
+    background-color: #ff1500;
+    background-image: radial-gradient(circle, black 50%, transparent 50%)
+}
+
+.ReunionText {
+    background: linear-gradient(to bottom, black, lime, black);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.ReunionBackground {
+    padding: 0;
+    margin-bottom: 10px;
+    background-color: transparent;
+    background-image: radial-gradient(black 5px, transparent 5px);
+    background-size: 18px 18px;
+}
+
+.Pharaoh{
+    background-color: transparent;
+    background-image: linear-gradient(
+        180deg, transparent 10%, transparent 10%, transparent 32%, black 32%, black 45%, black 45%,
+        black 57%, black 27%, black 69%, transparent 69%, transparent 100%
+    );
+}
+
+.Heading{
+    text-align: center;
+    font-size: 15px;
+    padding-bottom: 50;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+.button a{
+    text-decoration: none;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(silver,purple);
+    border-color: rgb(61, 61, 61);
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.button a:hover{
+    background-image: linear-gradient(gold, orange);
+    color:gray;
+    border-color: black;
+}
+
+.PharaohEyes1{
+    position: absolute;
+    top: 250px;
+    right: 200px;
+    background-color: aqua;
+    width: 100px;
+    height: 50px;
+    border-radius: 25px 25px 100px 100px;
+}
+
+.PharaohEyes2{
+    position: absolute;
+    top: 250px;
+    right: 970px;
+    background-color: aqua;
+    width: 100px;
+    height: 50px;
+    border-radius: 25px 25px 100px 100px;
+}
+
+.OwlEyes1 {
+    position: absolute;
+    top: 200px;
+    right: 970px;
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px 100px 100px 100px;    
+}
+
+.OwlEyes2 {
+    position: absolute;
+    top: 200px;
+    right: 130px;
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px 100px 100px 100px;    
+}
+
+.Eyeball1 {
+    position: absolute;
+    top: 225px;
+    right: 995px;
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px 100px 100px 100px;    
+}
+
+.Eyeball2 {
+    position: absolute;
+    top: 225px;
+    right: 155px;
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px 100px 100px 100px;    
+}
+
+.DarkOwl {
+    background-image: linear-gradient(
+        25.5deg, black 10%, black 10%, black 45%, orangered 45%, orangered 45%, orangered 45%,
+        orangered 57%, orangered 27%, orangered 27%, transparent 27%, transparent 100%
+    );
+}
+
+.Mask {
+    background-image: linear-gradient(
+        152.6deg, transparent 10%, transparent 10%, transparent 45%, orangered 45%, orangered 45%, orangered 45%,
+        orangered 57%, orangered 27%, orangered 27%, black 27%, black 100%
+    );
+}
+
+.IkariGozen {
+    background-image: linear-gradient(
+        25.5deg, red 10%, red 10%, red 45%, black 45%, black 45%, black 45%,
+        black 57%, black 27%, black 27%, transparent 27%, transparent 100%
+    );
+
+    /*background-image: radial-gradient(circle, transparent 75%, black 75%, black 95%, transparent 95%);*/
+}
+
+.Sword{
+    background-image: linear-gradient(
+        152.6deg, transparent 10%, transparent 10%, transparent 45%, black 45%, black 45%, black 45%,
+        black 57%, black 27%, black 27%, transparent 27%, transparent 100%
+    );
+}
+
+.gozencontainer {
+    position: absolute;
+    right: 47%;
+    top: 5.25%;
+    background-color: white;
+    border-radius: 100%;
+    width: 65px;
+    height: 65px;
+    border-color: black;
+    border-style: dashed;
+    font-size: 43px;
+}
+
+.CarEyes1 {
+    position: absolute;
+    top: 45%;
+    right: 74%;
+    background-color: yellow;
+    width: 300px;
+    height: 75px;
+    border-radius: 100px 100px 25px 25px;  
+}
+
+.CarEyes2 {
+    position: absolute;
+    top: 45%;
+    left: 74%;
+    background-color: yellow;
+    width: 300px;
+    height: 75px;
+    border-radius: 100px 100px 25px 25px; 
+}
+
+.Collector {
+    background-image: linear-gradient(
+        25.5deg, transparent 10%, transparent 10%, transparent 45%, lavender 45%, lavender 45%, lavender 45%,
+        lavender 57%, lavender 27%, lavender 27%, black 27%, black 100%
+    );
+}
+
+.Ipad {
+    background-image: linear-gradient(
+        152.6deg, transparent 10%, transparent 10%, transparent 45%, lavender 45%, lavender 45%, lavender 45%,
+        lavender 57%, lavender 27%, lavender 27%, red 27%, red 100%
+    );
+}
+
+.protection {
+    background:
+    radial-gradient(circle farthest-side at 0% 50%,green 23.5%,rgba(240,166,17,0) 0)21px 30px,
+    radial-gradient(circle farthest-side at 0% 50%,lime 24%,rgba(240,166,17,0) 0)19px 30px,
+    linear-gradient(green 14%,rgba(240,166,17,0) 0, rgba(240,166,17,0) 85%,green 0)0 0,
+    linear-gradient(
+        150deg,green 24%,lime 0,lime 26%,rgba(240,166,17,0) 0,rgba(240,166,17,0) 74%,lime 0,lime 76%,green 0
+    )0 0,
+    linear-gradient(
+        30deg,green 24%,lime 0,lime 26%,rgba(240,166,17,0) 0,rgba(240,166,17,0) 74%,lime 0,lime 76%,green 0
+    )0 0,
+    linear-gradient(90deg,lime 2%,green 0,green 98%,lime 0%)0 0 green;
+    background-size: 40px 60px;
+   }
+
+.exaltation {
+    background-color: #e5e5f7;
+    opacity: 0.8;
+    background-image:  
+        linear-gradient(135deg, rgb(78, 0, 85) 25%, transparent 25%), 
+        linear-gradient(225deg, rgb(78, 0, 85) 25%, transparent 25%),
+        linear-gradient(45deg, rgb(78, 0, 85) 25%, transparent 25%), 
+        linear-gradient(315deg, rgb(78, 0, 85) 25%, rgb(144,40,114) 25%);
+    background-position:  10px 0, 10px 0, 0 0, 0 0;
+    background-size: 72px 72px;
+    background-repeat: repeat;
+}
+
+.ripostecontainer {
+    position: absolute;
+    right: 47%;
+    top: 5.25%;
+    color: transparent;
+    background-image: radial-gradient(
+        circle,rgb(255, 224, 224),rgb(255, 197, 197),rgb(250, 143, 143),rgb(255, 90, 90),red
+    );
+    border-radius: 100%;
+    width: 65px;
+    height: 65px;
+    border-color: red;
+    /*border-style: solid;*/
+    font-size: 43px;
+    -webkit-text-stroke: .75px red;
+}
