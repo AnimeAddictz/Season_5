@@ -32,12 +32,6 @@
         180deg, transparent 10%, transparent 10%, transparent 32%, black 32%, black 45%, black 45%,
         black 57%, black 27%, black 69%, transparent 69%, transparent 100%
     );
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-    height: 100%;
-    z-index: 1;
 }
 
 .Heading{
@@ -146,12 +140,6 @@ h1{
         25.5deg, red 10%, red 10%, red 45%, black 45%, black 45%, black 45%,
         black 57%, black 27%, black 27%, transparent 27%, transparent 100%
     );
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-    height: 100%;
-    z-index: 1;
 }
 
 .Sword{
@@ -199,12 +187,6 @@ h1{
         25.5deg, transparent 10%, transparent 10%, transparent 45%, lavender 45%, lavender 45%, lavender 45%,
         lavender 57%, lavender 27%, lavender 27%, black 27%, black 100%
     );
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-    height: 100%;
-    z-index: 1;
 }
 
 .Ipad {
